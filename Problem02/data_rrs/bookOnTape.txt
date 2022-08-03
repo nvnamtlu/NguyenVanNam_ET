@@ -1,0 +1,5 @@
+BOT0;The Little Prince;comic
+BOT1;Think and grow rich;self-help
+BOT2;Harry Potter;novel
+BOT3;The flash;comic
+BOT4;The magic of thinking big;self-help

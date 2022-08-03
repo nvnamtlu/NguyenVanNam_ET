@@ -1,0 +1,5 @@
+FUR0;Aisha 69.68'';Sofas;Fabric
+FUR1;Roy Wicker Bench;Benches;Wood
+FUR2;Tamaka 33.5'';Massage chairs;Leather
+FUR3;Alani Coffee Table;Tables;Wood
+FUR4;Menchaca Steel Etagere Bookcase;Bookcase;Wood

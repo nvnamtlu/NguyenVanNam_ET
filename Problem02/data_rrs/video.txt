@@ -1,0 +1,5 @@
+VID0;Java tutorial for beginers;1h15p;720p
+VID1;Java OOP;57p;1080p
+VID2;SQL tutorial;1h52p;480p
+VID3;Hibernate tutorial;48p;1080p
+VID4;Spring boot tutorial;1h25p;720p
